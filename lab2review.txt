@@ -1,0 +1,24 @@
+5 pts
+
+Correctness:
+
+- The program has a runtime error:
+$ java driver < testcase.txt
+Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: 0
+  at driver.main(driver.java:30)
+
+
+Style:
+
+- Incorrect indentation in both the driver and aescipher files. Please use a
+  two-space indentation.
+
+- Good block comments
+
+
+Efficiency and Other Comments:
+
+- The program seems very efficient. I wish I could run it.
+
+
+- Dr. Rivas
