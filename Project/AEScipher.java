@@ -297,7 +297,7 @@
 
   /**
   *  @param  inStateHex  inputs and out are 4 by 4 matrices of pairs of hex digits,
-  *           and that will perform the “Substitution” operation
+  *           and that will perform the Substitution operation
   *          , .
   *  @return  outputs the corresponding input matrix entries through the AES S-Box
   */
